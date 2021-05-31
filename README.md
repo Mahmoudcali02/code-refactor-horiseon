@@ -13,7 +13,7 @@ This project is a code refactoring for the homepage of the Horiseon website. The
 6. Title element has a concise, descriptive title 
 ```
 ### Link to deployed application 
-
+https://mahmoudcali02.github.io/code-refactor-horiseon/
 
 ### Usage 
 Once installed, the webpage may be browsed on a standard desktop web browser. It has yet to be adjusted for smaller displays.
