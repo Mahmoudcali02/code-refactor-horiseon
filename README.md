@@ -17,6 +17,7 @@ This project is a code refactoring for the homepage of the Horiseon website. The
 
 ### Usage 
 Once installed, the webpage may be browsed on a standard desktop web browser. It has yet to be adjusted for smaller displays.
+![screenshot of index.html](./assets/images/screenshot.png)
 
 ### References and tutorials utilized
 ```
