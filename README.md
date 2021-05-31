@@ -12,7 +12,7 @@ This project is a code refactoring for the homepage of the Horiseon website. The
 5. Heading attributes fall in sequential order 
 6. Title element has a concise, descriptive title 
 ```
-### Links 
+### Link to deployed application 
 
 
 ### Usage 
