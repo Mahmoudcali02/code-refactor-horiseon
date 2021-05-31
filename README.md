@@ -11,6 +11,13 @@ This project is a code refactoring for the homepage of the Horiseon website. The
 4. Image elemenst has alt atributes 
 5. Heading attributes fall in sequential order 
 6. Title element has a concise, descriptive title 
+```
+### Links 
 
 
-### Completed tasks 
+### Usage 
+Once installed, the webpage may be browsed on a standard desktop web browser. It has yet to be adjusted for smaller displays.
+
+### References and tutorials utilized
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.freecodecamp.org/news/semantic-html5-elements/
