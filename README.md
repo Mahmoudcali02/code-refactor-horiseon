@@ -19,5 +19,7 @@ This project is a code refactoring for the homepage of the Horiseon website. The
 Once installed, the webpage may be browsed on a standard desktop web browser. It has yet to be adjusted for smaller displays.
 
 ### References and tutorials utilized
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.freecodecamp.org/news/semantic-html5-elements/
+```
+. https://www.w3schools.com/html/html5_semantic_elements.asp
+. https://www.freecodecamp.org/news/semantic-html5-elements/
+```
