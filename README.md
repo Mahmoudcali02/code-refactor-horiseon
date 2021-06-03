@@ -14,9 +14,13 @@ This project is a code refactoring for the homepage of the Horiseon website. The
 ```
 ### Link to deployed application 
 https://mahmoudcali02.github.io/code-refactor-horiseon/code-refactor-horiseon/
+https://github.com/Mahmoudcali02/code-refactor-horiseon 
 
 ### Usage 
 Once installed, the webpage may be browsed on a standard desktop web browser. It has yet to be adjusted for smaller displays.
+
+### Screenshot of the webpage
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### References and tutorials utilized
 ```
