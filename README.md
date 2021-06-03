@@ -21,7 +21,8 @@ Once installed, the webpage may be browsed on a standard desktop web browser. It
 
 ### Screenshot of the webpage
 
-![screenshot of index.html](.\assets\images\screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/84481970/120661095-e3ff9280-c47f-11eb-9412-0bb3288c0833.png)
+
 
 
 ### References and tutorials used
