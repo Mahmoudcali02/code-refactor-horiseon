@@ -20,8 +20,9 @@ https://github.com/Mahmoudcali02/code-refactor-horiseon
 Once installed, the webpage may be browsed on a standard desktop web browser. It has yet to be adjusted for smaller displays.
 
 ### Screenshot of the webpage
-![Image of Yaktocat](![Uploading screenshot.png…]()
-)
+
+![screenshot of index.html](./assets/images/screenshot.png)
+
 
 ### References and tutorials used
 ```
