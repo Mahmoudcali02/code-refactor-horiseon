@@ -20,9 +20,10 @@ https://github.com/Mahmoudcali02/code-refactor-horiseon
 Once installed, the webpage may be browsed on a standard desktop web browser. It has yet to be adjusted for smaller displays.
 
 ### Screenshot of the webpage
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](![Uploading screenshot.png…]()
+)
 
-### References and tutorials utilized
+### References and tutorials used
 ```
 . https://www.w3schools.com/html/html5_semantic_elements.asp
 . https://www.freecodecamp.org/news/semantic-html5-elements/
