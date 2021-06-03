@@ -106,7 +106,7 @@ article.benefits {
   font-size: 20px;
 }
 
-.hero {
+figure.hero {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
@@ -115,7 +115,7 @@ article.benefits {
   background-position: center;
 }
 
-.service {
+article.service {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -123,16 +123,16 @@ article.benefits {
   background-color: #0072bb;
   color: #ffffff;
 }
-.service img {
+article.service img {
   max-height: 200px;
 }
 
-.service h2 {
+article.service h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.services {
+article.services {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
