@@ -21,7 +21,7 @@ Once installed, the webpage may be browsed on a standard desktop web browser. It
 
 ### Screenshot of the webpage
 
-![screenshot of index.html](C:\Users\Mahmo\Documents\Bootcamp\code-refactor-horiseon\assets\images\screenshot.png)
+![screenshot of index.html](.\assets\images\screenshot.png)
 
 
 ### References and tutorials used
