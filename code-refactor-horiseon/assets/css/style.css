@@ -57,23 +57,23 @@ p {
 
 /* Class styling */
 
-.benefit {
+article.benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit h3 {
+article.benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-.benefit img {
+article.benefit img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.benefits {
+article.benefits {
   margin-right: 20px;
   padding: 20px;
   clear: both;
